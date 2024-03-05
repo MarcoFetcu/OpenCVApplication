@@ -1,0 +1,110 @@
+﻿  OpenCVApplication.cpp
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(557,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(557,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(557,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(557,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(557,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(558,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(558,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(558,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(558,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(558,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(559,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(559,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(559,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(559,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(559,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(560,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(560,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(560,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(560,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(560,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(562,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(563,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(563,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(563,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(563,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(563,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(564,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(564,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(564,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(564,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(564,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(565,27): warning C4305: '=': truncation from 'double' to '_Tp'
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(565,27): warning C4305:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(565,27): warning C4305:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(565,27): warning C4305:             _Tp=float
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(565,27): warning C4305:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(552,7): warning C4101: 'fname': unreferenced local variable
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(805,33): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(805,33): warning C4244:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(805,33): warning C4244:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(805,33): warning C4244:             _Tp=uchar
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(805,33): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(806,27): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(806,27): warning C4244:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(806,27): warning C4244:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(806,27): warning C4244:             _Tp=uchar
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(806,27): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(807,27): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(807,27): warning C4244:         with
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(807,27): warning C4244:         [
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(807,27): warning C4244:             _Tp=uchar
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(807,27): warning C4244:         ]
+  (compiling source file '/OpenCVApplication.cpp')
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(957,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uchar *'
+  (compiling source file '/OpenCVApplication.cpp')
+  C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(957,11):
+  consider using '%hhd' in the format string
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(963,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uchar *'
+  (compiling source file '/OpenCVApplication.cpp')
+  C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(963,11):
+  consider using '%hhd' in the format string
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(982,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uchar *'
+  (compiling source file '/OpenCVApplication.cpp')
+  C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(982,11):
+  consider using '%hhd' in the format string
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(992,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uchar *'
+  (compiling source file '/OpenCVApplication.cpp')
+  C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(992,11):
+  consider using '%hhd' in the format string
+  
+C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(994,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uchar *'
+  (compiling source file '/OpenCVApplication.cpp')
+  C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(994,11):
+  consider using '%hhd' in the format string
+  
+  OpenCVApplication.vcxproj -> C:\Users\marko\OneDrive\Desktop\PI\lab1\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
